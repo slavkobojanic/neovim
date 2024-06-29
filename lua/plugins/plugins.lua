@@ -57,6 +57,8 @@ return {
     
             g.ale_ruby_rubocop_auto_correct_all = 1
             g.ale_fix_on_save = 1
+            g.ale_javascript_eslint_executable = 'eslint_d'
+            g.ale_javascript_eslint_use_global = 1
     
             g.ale_linters = {
                 ruby = {'rubocop', 'ruby'},

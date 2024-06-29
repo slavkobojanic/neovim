@@ -8,7 +8,7 @@ require('config.mini')
 require('config.nvim-tree')
 require('config.onedark')
 require('config.telescope')
--- require('config.eslint')
+require('config.eslint')
 -- require('config.prettier')
 require('config.coc')
 
