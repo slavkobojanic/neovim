@@ -1,0 +1,5 @@
+require('mini.cursorword').setup()
+require('mini.indentscope').setup()
+require('mini.starter').setup()
+require('mini.surround').setup()
+require('mini.animate').setup()
